@@ -1,7 +1,5 @@
 # GooseDuck
 
-# 🪿 GooseDuck
-
 > A messenger hiding behind a goose mask — but packing a seriously legit system underneath. 🔒
 
 ## ✨ What makes it special
