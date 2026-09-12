@@ -48,6 +48,17 @@ Here's the twist: **you can't see your own GDID** — you only ever see your con
 
 No more "trust on first use" guesswork — GDID makes sure the person you verified today is still the person you're talking to tomorrow. 🦆🔒
 
+## 🛠️ Tech Stack
+
+| Layer | Tech |
+|---|---|
+| 🎨 UI/GUI | **Avalonia UI** |
+| 🌐 Networking | **ASP.NET Core** |
+| 🗄️ Database (SQL) | **Entity Framework Core** |
+| 🔐 Encryption | **NSec** |
+
+Cross-platform from the ground up, built with a modern .NET stack. 🦆⚡
+
 ## ❗ PAY ATTENTION ❗
 - The project is currently in the concept stage. We are active refining our ideas and fixing potential roadblocks discovered during planning.
 - Full development is scheduled to begin during our nearest upcoming free time!
