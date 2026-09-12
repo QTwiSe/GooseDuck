@@ -52,6 +52,8 @@ No more "trust on first use" guesswork — GDID makes sure the person you verifi
 - The project is currently in the concept stage. We are active refining our ideas and fixing potential roadblocks discovered during planning.
 - Full development is scheduled to begin during our nearest upcoming free time!
 
+---
+
 TL; DR: **KeyLock doesn't just encrypt your messages — it makes your traffic look boring, random, and completely unremarkable.** 🦢🔒
 
 ---
