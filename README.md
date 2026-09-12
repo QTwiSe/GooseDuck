@@ -8,7 +8,7 @@
 
 GooseDuck runs on a **custom encryption protocol** built on top of **ECDH**, souped up with built-in tricks that let it:
 
-- 🌐 Keep working even under sovereign/restricted internet setups
+- 🌐 Stays resilient under heavy network restrictions and deep packet inspection (DPI)
 - 🕵️ Keep your data locked away from hackers trying to snoop
 
 No corporate spyware vibes here — just a duck-and-goose crew doing encryption right. 🦆🔒
