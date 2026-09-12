@@ -33,6 +33,20 @@ Instead of sending 1 packet, KeyLock fires off **3** — with 2 of them being pu
 ### 6. 🗑️ Junk Traffic
 Every **30–60 seconds**, the messenger blasts out junk packets with randomized pauses in between, keeping traffic patterns unpredictable.
 
+## 🆔 GDID — GooseDuckID (Anti-MITM System)
+
+Meet **GDID** — a unique **6-character hash identifier**, always starting with `#` (e.g. `#A3F8B2`), auto-generated for every user **forever** at registration.
+
+Here's the twist: **you can't see your own GDID** — you only ever see your contact's GDID. 👀
+
+### How it stops MITM attacks
+
+- 🔑 On registration, a **permanent keypair** is generated for the account — GDID is literally a **hash of that public key**.
+- 🤝 During the handshake, both server and contact **sign their temporary key (A or B) with their permanent key**.
+- 🚫 If an attacker tries to slip in and swap keys mid-handshake, the signature check fails — the interceptor **has no matching GDID** to fake it with.
+- ✅ Once a contact verifies the other person's GDID **just once**, key-swapping becomes impossible after that — locked in for good.
+
+No more "trust on first use" guesswork — GDID makes sure the person you verified today is still the person you're talking to tomorrow. 🦆🔒
 ---
 
 TL;DR: **KeyLock doesn't just encrypt your messages — it makes your traffic look boring, random, and completely unremarkable.** 🦢🔒
