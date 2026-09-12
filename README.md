@@ -8,7 +8,7 @@
 
 GooseDuck runs on a **custom encryption protocol** built on top of **ECDH**, souped up with built-in tricks that let it:
 
-- 🌐 Keep working even under sovereign/restricted internet setups (looking at you, Russia 🇷🇺)
+- 🌐 Keep working even under sovereign/restricted internet setups
 - 🕵️ Keep your data locked away from hackers trying to snoop
 
 No corporate spyware vibes here — just a duck-and-goose crew doing encryption right. 🦆🔒
@@ -24,7 +24,7 @@ Junk bytes get tacked onto every message so each one weighs in at **exactly 1024
 A shared seed gets fed into **XChaCha20-Poly1305**, spitting out a stream of random numbers. Messages get XOR'd against that seed, turning into pure **gibberish** for anyone snooping — and on top of that, it's disguised as **TLS 1.3** traffic.
 
 ### 3. 🌍 SNI Spoofing
-Via a GET request, the SNI field gets stuffed with a link to an "allowed" site — think `ozon.ru`. Blends right in with normal traffic.
+Via a GET request, the SNI field gets stuffed with a link to an "allowed" site. Blends right in with normal traffic.
 
 ### 4. ⏱️ Intermediate Seed
 Between the main seeds (which rotate every **5–10 minutes**), a short-lived **intermediate seed** kicks in for **~30–60 seconds** — and yep, it gets padded too.
