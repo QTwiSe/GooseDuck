@@ -19,7 +19,7 @@ Meet **KeyLock** — the ECDH-based encryption protocol running the show (yeah, 
 Junk bytes get tacked onto every message so each one weighs in at **exactly 1024 bytes**, no matter what. Uniform size = no easy pattern-sniffing.
 
 ### 2. 🔑 Key Generation
-A shared seed gets fed into **XChaCha20-Poly1305**, spitting out a stream of random numbers. Messages get XOR'd against that seed, turning into pure **gibberish** for anyone snooping — and on top of that, it's disguised as **TLS 1.3** traffic.
+A shared seed drives XChaCha20 to generate a keystream, which messages get XOR'd against — turning them into pure gibberish for anyone snooping. Poly1305 then adds an authentication tag on top, so tampering gets caught. All of it disguised as TLS 1.3 traffic.
 
 ### 3. 🌍 SNI Spoofing
 Via a GET request, the SNI field gets stuffed with a link to an "allowed" site. Blends right in with normal traffic.
