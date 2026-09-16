@@ -1,6 +1,9 @@
 # GooseDuck
 
 > A messenger hiding behind a goose mask — but packing a seriously legit system underneath. 🔒
+>
+> <img width="3000" height="3000" alt="GooseDuck_Logo" src="https://github.com/user-attachments/assets/80935ff3-fa40-4844-933c-a69900864621" />
+
 
 ## ✨ What makes it special
 
