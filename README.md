@@ -57,7 +57,7 @@ No more "trust on first use" guesswork — GDID makes sure the person you verifi
 |---|---|
 | 🎨 UI/GUI | **Avalonia UI** |
 | 🌐 Networking | **ASP.NET Core** |
-| 🗄️ Database (SQL) | **Entity Framework Core** |
+| 🗄️ Database (SQL) | **Entity Framework Core + PostgreSQL** |
 | 🔐 Encryption | **NSec** |
 
 Cross-platform from the ground up, built with a modern .NET stack. 🦆⚡
