@@ -49,6 +49,8 @@ Here's the twist: **you can't see your own GDID** — you only ever see your con
 - 🚫 If an attacker tries to slip in and swap keys mid-handshake, the signature check fails — the interceptor **has no matching GDID** to fake it with.
 - ✅ Once a contact verifies the other person's GDID **just once**, key-swapping becomes impossible after that — locked in for good.
 
+*GDID can also include lowercase letters!
+
 No more "trust on first use" guesswork — GDID makes sure the person you verified today is still the person you're talking to tomorrow. 🦆🔒
 
 ## 🛠️ Tech Stack
