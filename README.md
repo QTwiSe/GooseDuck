@@ -67,6 +67,9 @@ Cross-platform from the ground up, built with a modern .NET stack. 🦆⚡
 ## ❗ PAY ATTENTION ❗
 
 The project is currently in the active development stage. We are actively implementing our ideas and resolving technical challenges as they arise.Full-scale production and regular updates are scheduled to begin during our nearest upcoming free time!
+P.S - 
+
+The code is already written but not yet published. I will publish it at the first opportunity!»
 
 ---
 
