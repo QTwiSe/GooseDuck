@@ -72,6 +72,23 @@ KLS can be deployed directly onto your machine as a lightweight background daemo
 
 ---
 
+## 👥 Meet the Mascots: Jack & Jane
+
+Behind the hardened cryptography of **GooseDuck** and **KLS** stand our two digital operators. They might hide behind those glowing red cyber-visors, but they have distinct personalities and crucial roles in the ecosystem:
+
+### 🦢 Jack the Goose
+* **Personality:** Friendly, highly reliable, but dead serious when it comes to privacy and protocols.
+* **Appearance:** Rocking a classic blue cap and secretly carrying a **paperclip** under his wing [1] (always ready to secure your data packets or clip a rogue connection).
+* **In the Project:** Jack is the overseer of the **KeyLock Subsystem (KLS)**. He manages the raw ECDH handshakes, CLI architecture, and ensures that your traffic remains tightly locked from any prying eyes.
+
+### 🦆 Jane the Duck
+* **With Us Since:** The dawn of the messenger.
+* **Personality:** Incredibly helpful, empathetic, but a bit absent-minded at times (probably because she's processing too many nodes at once).
+* **Appearance:** Wrapped in a cozy green-and-blue scarf, keeping a high-performance **CPU/Processor** tucked under her wing.
+* **In the Project:** Jane is the mastermind behind the кроссплатформенный GUI built on **Avalonia UI**. She wraps Jack's heavy crypto-core into a smooth, beautiful, and user-friendly experience. She makes sure your "duck errands" run flawlessly.
+* 
+
+---
 
 
 ## 🛠️ Tech Stack
