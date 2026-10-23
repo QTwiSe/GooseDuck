@@ -54,6 +54,26 @@ Here's the twist: **you can't see your own GDID** — you only ever see your con
 
 No more "trust on first use" guesswork — GDID makes sure the person you verified today is still the person you're talking to tomorrow. 🦆🔒
 
+## ⚙️ KeyLock Subsystem (KLS)
+
+**KLS (KeyLock Subsystem)** is the backbone of our encryption architecture, completely decoupled from the main GooseDuck (GD) application. We split the monolith into an independent, modular subsystem to achieve two major goals:
+
+### 📦 1. Standalone Crypto Core (SDK)
+
+The source code of the **KeyLock** protocol runs entirely separate from the GooseDuck GUI.
+* **For Developers:** You can easily reference and integrate KLS into your own projects, apps, or services that require a custom, robust cryptography layer built on top of **ECDH** — without dragging the messenger's entire UI stack along with it.
+
+### 🛡️ 2. Headless Tunneling & CLI (VPN Mode)
+
+KLS can be deployed directly onto your machine as a lightweight background daemon.
+
+* **For Power Users:** You can spin up the KeyLock protocol to tunnel your computer's network traffic, working effectively like a hardened VPN designed to stay resilient under heavy DPI.
+* **CLI-Driven Control:** Manage your peers, routing tables, and cryptographic handshakes directly from the terminal using a clean and fast command-line interface.
+
+---
+
+
+
 ## 🛠️ Tech Stack
 
 | Layer | Tech |
