@@ -92,6 +92,11 @@ P.S -
 
 The code is already written but not yet published. I will publish it at the first opportunity!»
 
+**GooseDuck & KLS are 100% Free and Open Source Software (FOSS).** 
+
+There are no paywalls, no premium features, no ads, and no hidden subscriptions — and there never will be. Every single line of cryptographic code and every UI component is completely transparent, auditable, and free for everyone. 
+We build this for privacy, freedom, and the open-source community. If you wish to support the development, you can do so strictly through voluntary donations. 
+
 ---
 
 TL; DR: **KeyLock doesn't just encrypt your messages — it makes your traffic look boring, random, and completely unremarkable.** 🦢🔒
