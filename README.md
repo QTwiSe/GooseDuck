@@ -105,7 +105,6 @@ Cross-platform from the ground up, built with a modern .NET stack. 🦆⚡
 ## ❗ PAY ATTENTION ❗
 
 The project is currently in the active development stage. We are actively implementing our ideas and resolving technical challenges as they arise.Full-scale production and regular updates are scheduled to begin during our nearest upcoming free time!
-P.S - 
 
 The code is already written but not yet published. I will publish it at the first opportunity!»
 
@@ -113,6 +112,11 @@ The code is already written but not yet published. I will publish it at the firs
 
 There are no paywalls, no premium features, no ads, and no hidden subscriptions — and there never will be. Every single line of cryptographic code and every UI component is completely transparent, auditable, and free for everyone. 
 We build this for privacy, freedom, and the open-source community. If you wish to support the development, you can do so strictly through voluntary donations. 
+
+**🛠️ Modify, Fork, and Contribute:**
+
+Since the entire ecosystem (**GooseDuck, KeyLock, and KLS**) is completely open-source, you are fully encouraged to modify, fork, and adapt the code to your own needs. 
+Want to make the protocol even stronger, fix a bug, or add a feature? **Pull Requests (PRs) are highly welcome!** Let's build the ultimate privacy shield together. Jack and Jane are always ready to review your code! 🕶️🔒🦆
 
 ---
 
