@@ -120,6 +120,16 @@ Want to make the protocol even stronger, fix a bug, or add a feature? **Pull Req
 
 ---
 
+## ☕ Support the Development
+
+If you would like to support the project or buy the authors a coffee, you can do so via:
+
+* Bitcoin (BTC): bc1qacc4d6kjwn0nqlvle40veyk73xwrnj9svztrqu
+* USDT / BNB / ETH: 0x6Ee0a7bbC61570e531177e63594fB1129a91154b
+* Telegram Stars/TON: Telegram username @QTwiSe
+
+---
+
 TL; DR: **KeyLock doesn't just encrypt your messages — it makes your traffic look boring, random, and completely unremarkable.** 🦢🔒
 
 ---
