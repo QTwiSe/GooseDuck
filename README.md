@@ -85,7 +85,7 @@ Behind the hardened cryptography of **GooseDuck** and **KLS** stand our two digi
 * **With Us Since:** The dawn of the messenger.
 * **Personality:** Incredibly helpful, empathetic, but a bit absent-minded at times (probably because she's processing too many nodes at once).
 * **Appearance:** Wrapped in a cozy green-and-blue scarf, keeping a high-performance **CPU/Processor** tucked under her wing.
-* **In the Project:** Jane is the mastermind behind the кроссплатформенный GUI built on **Avalonia UI**. She wraps Jack's heavy crypto-core into a smooth, beautiful, and user-friendly experience. She makes sure your "duck errands" run flawlessly.
+* **In the Project:** Jane is the mastermind behind the cross-platform GUI built on **Avalonia UI**. She wraps Jack's heavy crypto-core into a smooth, beautiful, and user-friendly experience. She makes sure your "duck errands" run flawlessly.
   
 
 ---
